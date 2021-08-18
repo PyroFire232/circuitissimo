@@ -1,0 +1,110 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 9.4.2021
+  Changes:
+    - Factorio 1.1
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 27.4.2019
+  Changes:
+    - renaming
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 27.4.2019
+  Changes:
+    - Added Wire Poles and changed entry/exit method (you now simply click on it to enter, and a button to exit).
+    - Formal mod renaming/reupload CircuitChips to Circuitissimo
+    - lib v0.0.15
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 21.4.2020
+  Changes:
+    - Factorio 0.18.18
+    - lib v0.0.12
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 3.12.2019
+  Changes:
+    - lib v0.0.11
+    - Exiting a chip with bad entities placed inside it (e.g. furnace, or more chips) now tells you what was lost.
+    - Fixed deconstruction and robot issues
+    - Fixed blueprinting issue related to rails
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 29.11.2019
+  Changes:
+    - Moved chips to data-updates for compatabilities (?)
+    - Library update
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 22.11.2019
+  Changes:
+    - Mod compatabilities x2
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 22.11.2019
+  Changes:
+    - Mod compatabilities
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 21.11.2019
+  Changes:
+    - Combinator Arrow spam
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 21.11.2019
+  Changes:
+    - Blueprint support. Only thing missing is cost of combinators.
+    - Consistent direction/position of micro-combinators with combinator chip orientation.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 20.11.2019
+  Changes:
+    - Remote for getting a player's chip (if they're in one)
+    - Blueprint support (unstable?)
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 20.11.2019
+  Changes:
+    - Thumbnail
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 20.11.2019
+  Changes:
+    - Entry/exit Capsule stack size to 100
+    - Locales
+    - Recipe cleanup
+    - Added to circuit network technology
+    - Reduced cost of teleport capsule
+    - Free teleport capsule when entering a chip so you can't get stuck
+    - Cloning support
+    - Tinted the chip combinator and item
+    - Fixed on destroy events
+    - Mini-circuitry aligning with chip orientations & on rotate
+    - Combinators inside the chip are added to inventory when the chip is mined
+    - Chips can be copy+pasted between eachother, as long as you have enough combinators to supply it
+
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 20.11.2019
+  Changes:
+    - lol
